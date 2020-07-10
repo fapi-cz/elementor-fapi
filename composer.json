@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fapi-cz/fapi-client": "^0.1.5"
+    }
+}
